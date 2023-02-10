@@ -5,7 +5,7 @@ function index()
 return
 end
 
-entry({"admin","zt"}, firstchild(), "ZT", 45).dependent = false
+entry({"admin","zt"}, firstchild(), "ZT", 88).dependent = false
 
 entry({"admin", "zt", "zerotier"},firstchild(), _("ZeroTier")).dependent = false
 
